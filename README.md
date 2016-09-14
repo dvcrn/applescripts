@@ -25,3 +25,7 @@ instead.
 
 This is meant to be used with a "Next" perspective that collects all tasks whether it has a context
 or not, and a "Someday" perspective that aggregates stalled / "maybe" tasks.
+
+## defer+/-1.applescript
+
+Adds / removes 1 day from the tasks defer date. Inspired by 2Do.
