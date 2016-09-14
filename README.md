@@ -16,3 +16,12 @@ to have only one _Next_ perspective and move everything that I have to do at hom
 (=7pm).
 
 Just change the time in the last function to push the tasks to some other time.
+
+## someday.applescript
+
+This script tries to replicate the someday/next behaviour of Things 2. The selected tasks will get
+moved to a custom context `Someday / Maybe`. If already there, this script removes the context
+instead.
+
+This is meant to be used with a "Next" perspective that collects all tasks whether it has a context
+or not, and a "Someday" perspective that aggregates stalled / "maybe" tasks.
