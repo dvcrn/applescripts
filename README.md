@@ -34,6 +34,6 @@ Adds / removes 1 day from the tasks defer or due date. Inspired by 2Do.
 
 Removes the due or defer date from all selected tasks. Inspired by 2Do.
 
-## start-today.applescript
+## start/due-today.applescript
 
-Updates defer date of all selected tasks to today 8am. Inspired by 2Do.
+Updates defer or due date of all selected tasks to today 8am. Inspired by 2Do.
