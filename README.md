@@ -29,3 +29,7 @@ or not, and a "Someday" perspective that aggregates stalled / "maybe" tasks.
 ## defer+/-1.applescript
 
 Adds / removes 1 day from the tasks defer date. Inspired by 2Do.
+
+## due+/-1.applescript
+
+Adds / removes 1 day from the tasks due date. Inspired by 2Do.
