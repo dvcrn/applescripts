@@ -42,7 +42,7 @@ Updates defer or due date of all selected tasks to today. Inspired by 2Do.
 
 Updates defer or due date of all selected tasks to tomorrow. Inspired by 2Do.
 
-## set-current-perspective-to-xxx.js
+## set-current-availability-to-xxx.js
 
 Quick changes the current perspectives availability to xxx. Uses the OmniFocus internal names, not
 the one in the UI:
