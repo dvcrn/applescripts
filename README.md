@@ -3,6 +3,12 @@
 This is my little dump of OmniFocus scripts that I use in my workflow. Most of them are meant to get
 executed through something like KeyboardMaestro.
 
+Close to all scripts in here are _single purpose_, meaning they do exactly one thing. As a result, a
+lot of code is duplicated but each script is atomic.
+
+A lot of the things you find here are inspired by my back and forth adventures between 2Do, Things
+and OmniFocus. Something missing that you like to see? Open a issue and let me know!
+
 ## prioritize-through-estimation.js
 
 This script abuses the `Estimation` field of OmniFocus to hack a pseudo-prioritization into place.
@@ -51,3 +57,5 @@ the one in the UI:
 - available = available
 - incomplete = remaining
 - all = all
+
+Kind of inspired by Things and their way to quickly set shown tasks to 1-9.
