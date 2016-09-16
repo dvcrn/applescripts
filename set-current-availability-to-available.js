@@ -4,4 +4,4 @@ var of = Application('OmniFocus'),
 var w = ofDoc.documentWindows()[0];
 var contentTree = w.content();
 
-contentTree.selectedTaskStateFilterIdentifier = "next";
+contentTree.selectedTaskStateFilterIdentifier = "available";

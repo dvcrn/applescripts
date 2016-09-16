@@ -4,4 +4,4 @@ var of = Application('OmniFocus'),
 var w = ofDoc.documentWindows()[0];
 var contentTree = w.content();
 
-contentTree.selectedTaskStateFilterIdentifier = "all";
+contentTree.selectedTaskStateFilterIdentifier = "incomplete";
