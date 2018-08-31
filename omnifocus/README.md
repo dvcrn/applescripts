@@ -59,3 +59,13 @@ the one in the UI:
 - all = all
 
 Kind of inspired by Things and their way to quickly set shown tasks to 1-9.
+
+## prefix.applescript
+
+Applescript for prefixing/replacing all prefixes all selected tasks with "!".  Eg:
+
+- `Buy Milk` -> `! Buy Milk`
+- `!! Buy Milk` -> `! Buy Milk`
+- `!!!! Buy Milk` -> `! Buy Milk`
+
+(I use this together with "Sorting by name" to have some kind of manual sorting)
